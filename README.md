@@ -18,7 +18,7 @@ To monitor the Safe “Inactivity time” we will implement a “Keep alive” s
 ## About us
 
 ### MARCO NEGRONI (@LordMarkDev)
-Safe Guardian, Senior .NET and Web3 full stack developer, Tech researcher; About 10 years of professional experience.
+Safe Guardian, Senior .NET and Web3 full stack developer, Tech researcher; Over 10 years of professional experience.
 
 [https://www.linkedin.com/in/lordmarkdev](https://www.linkedin.com/in/lordmarkdev)
 
