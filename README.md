@@ -43,8 +43,8 @@ We will develop the Emergency Module smart contract (as Safe Module/Hook), the w
 We planned to develop the following features: 
 - User-friendly UI for configuration and setup (including module/hook smart contract deployment)
 - Visualization and editing of the “Emergency Action”:
-- - List of new address to be added as safe owners
-- - New threshold amount
+  - List of new address to be added as safe owners
+  - New threshold amount
 - View and edit the timeout for the “Emergency Action”
 - View the Safe “Last Activity Timestamp” and the remaining time until the “Emergency Action” can be triggered
 - Visualization and editing of the list of email addresses for notification of imminent timeout
@@ -55,15 +55,15 @@ We planned to develop the following features:
 
 ## Tech stack
 
-Vercel - [https://vercel.com](https://vercel.com)
-NextJS - [https://nextjs.org](https://nextjs.org)
-React - [https://react.dev](https://react.dev)
-Tailwind - [https://tailwindcss.com](https://tailwindcss.com)
-Solidity - [https://soliditylang.org](https://soliditylang.org)
-Hardhat - [https://hardhat.org](https://hardhat.org)
-TrailOfBits Ethereum Security Toolbox (Slither) - [https://github.com/trailofbits/eth-security-toolbox](https://github.com/trailofbits/eth-security-toolbox)
-Ethers - [https://docs.ethers.org](https://docs.ethers.org)
-SafeAppsSDK - [https://docs.safe.global/safe-core-aa-sdk/safe-apps](https://docs.safe.global/safe-core-aa-sdk/safe-apps)
-SafeContracts - [https://github.com/safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
-MongoDB Atlas - [https://www.mongodb.com/atlas/database](https://www.mongodb.com/atlas/database)
-AWS Lambda - [https://aws.amazon.com/it/lambda](https://aws.amazon.com/it/lambda) or EvenNode - [https://www.evennode.com](https://www.evennode.com) or similar
+- Vercel - [https://vercel.com](https://vercel.com)
+- NextJS - [https://nextjs.org](https://nextjs.org)
+- React - [https://react.dev](https://react.dev)
+- Tailwind - [https://tailwindcss.com](https://tailwindcss.com)
+- Solidity - [https://soliditylang.org](https://soliditylang.org)
+- Hardhat - [https://hardhat.org](https://hardhat.org)
+- TrailOfBits Ethereum Security Toolbox (Slither) - [https://github.com/trailofbits/eth-security-toolbox](https://github.com/trailofbits/eth-security-toolbox)
+- Ethers - [https://docs.ethers.org](https://docs.ethers.org)
+- SafeAppsSDK - [https://docs.safe.global/safe-core-aa-sdk/safe-apps](https://docs.safe.global/safe-core-aa-sdk/safe-apps)
+- SafeContracts - [https://github.com/safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
+- MongoDB Atlas - [https://www.mongodb.com/atlas/database](https://www.mongodb.com/atlas/database)
+- AWS Lambda - [https://aws.amazon.com/it/lambda](https://aws.amazon.com/it/lambda) or EvenNode - [https://www.evennode.com](https://www.evennode.com) or similar
